@@ -1,0 +1,7 @@
+package models;
+
+public enum Type {
+    PIKACHU, DRAGONITE, MEW, CHARIZARD, MUK, TAUROS, MILTANK
+    , JOLTEN, ZAPDOS, MOLTRES, EEVEE, SNORLAX
+
+}
